@@ -1,0 +1,1 @@
+web: ./diego-sample-go
